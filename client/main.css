@@ -1,0 +1,13 @@
+body {
+    background-color: #FFFFFF;
+    font-family: Garamond;
+}
+
+.ui.sidebar.login-sidebar {
+    margin-top: 40px !important;
+    padding-top: 20px !important;
+}
+
+.mobile-pushable {
+    margin-top: 40px !important;
+}
